@@ -1,9 +1,9 @@
 @import 'tailwindcss';
 
-body::-webkit-scrollbar {
+/* body::-webkit-scrollbar {
   width: 0.5rem;
   height: 0px;
-}
+} */
 
 .p-6 {
   padding: 1.2rem;
